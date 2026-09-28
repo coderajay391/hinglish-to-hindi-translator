@@ -1,0 +1,6 @@
+{
+  "name": "Hinglish to Hindi Converter",
+  "description": "Convert English and Hinglish text into natural Hindi instantly with our modern Hinglish to Hindi converter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
